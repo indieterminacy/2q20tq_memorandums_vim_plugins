@@ -13,4 +13,4 @@
         \ 'VimwikiMakeDiaryNote', 'VimwikiTabIndex', 'VimwikiTabMakeDiaryNote',
         \ 'VimwikiUISelect'] }
 " For integrating Vimwiki with Taskwarrior
-    Plug 'http://github.com/teranex/vimwiki-tasks'
+    " Plug 'http://github.com/teranex/vimwiki-tasks'
